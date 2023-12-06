@@ -1,2 +1,2 @@
-00-Templet
+00-Templete
 pengenalan class objek
